@@ -62,8 +62,8 @@ A Java Swing desktop application for tracking real estate investments, managing 
 
 The seed script creates a demo user:
 
-- Username: `demo`
-- Password: `password123`
+- Username: `Demo`
+- Password: `demo`
 - Security answer: `demo`
 
 ## Portfolio Notes
